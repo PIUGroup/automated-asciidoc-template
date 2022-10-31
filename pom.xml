@@ -3,7 +3,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.PIUGroup</groupId>
-    <artifactId>dokumentation in asciidoc</artifactId>
+    <artifactId>dokumentation-in-asciidoc</artifactId>
     <version>Ausgabe 1.0.0-SNAPSHOT</version>
     <name>Dokumentation in AsciiDoc</name>
     <description>Template zur Erstellung von Projekten in AsciiDoc</description>
