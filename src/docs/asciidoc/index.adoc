@@ -1,4 +1,4 @@
-= Raspi-Garage
+= Automated Dokumentation with Asciidoc
 
 Initiator: Thomas Schubert (Huluvu424242) <huluvu424242@gmail.com>
 
